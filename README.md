@@ -37,7 +37,7 @@ The dataset used is `wine-quality-white-and-red.csv`, containing wine quality da
 ![Cosine Similarity by Attribute](images/cosine_similarity_by_attribute.png)
 
 ### Pearson Correlation by Attribute
-![Pearson Correlation by Attribute](images/pearson_correlation_by_attribute.png)
+![Pearson Correlation by Attribute](pearson_correlation_by_attribute.png)
 
 ### Euclidean Distance by Attribute
 ![Euclidean Distance by Attribute](images/Euclidean_distance_by_attribute.png)
@@ -58,10 +58,17 @@ The dataset used is `wine-quality-white-and-red.csv`, containing wine quality da
 - Python 3.x
 - Required libraries: pandas, numpy, scipy, scikit-learn, matplotlib
 
-### Installation
-- **Install the dependencies:**
-- pip install -r requirements.txt
-- jupyter notebook Pauravi_nagarkar_PR1.ipynb
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Pauravinagarkar/Wine-Analysis.git
+   cd Wine-Analysis
+
+2. **Install the dependencies:**:
+
+   ```bash
+    pip install -r requirements.txt
+    jupyter notebook Pauravi_nagarkar_PR1.ipynb
 
 
 ### Steps to Follow: 
@@ -79,15 +86,9 @@ The analysis reveals that standardization significantly affects the ranking of p
 
 
 ### Contact- 
+ ```bash
    - Pauravi Nagarkar
    - Email: pnagarkar@scu.edu
-   - LinkedIn: Pauravi Nagarkar
-
-
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Pauravinagarkar/Wine-Analysis.git
-   cd Wine-Analysis
-
+   - LinkedIn: https://www.linkedin.com/in/pauravi-nagarkar/
+   - GitHub: https://github.com/Pauravinagarkar
+   - Website: https://pauravi-nagarkar.netlify.app/
